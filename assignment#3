@@ -1,0 +1,26 @@
+ //******TASK  # 06******/ 
+  
+//   var sub1 = prompt("Enter your First Subject"); 
+//   var sub2 = prompt("Enter your second Subject"); 
+//   var sub3 = prompt("Enter your third Subject"); 
+  
+//   var totalmarks = 300 ; 
+//   var onesubmarks = 100 ; 
+  
+//   var om1 = +prompt("enter your obtined marks in first subjct") 
+//   var om2 = +prompt("enter your obtined marks in second subjct") 
+//   var om3 = +prompt("enter your obtined marks in third subjct") 
+//   var tob = om1 + om2 + om3 
+  
+  
+//   var res1 = (om1 / onesubmarks) * 100; 
+//   var res2 = (om2 / onesubmarks) * 100; 
+//   var res3 = (om3 / onesubmarks) * 100; 
+//   var tres = (tob / totalmarks ) * 100 ; 
+  
+//   document.write 
+//   document.write( sub1 + "    " + onesubmarks + "    " + om1 + "  " + res1 + "%" + "<br>"); 
+//   document.write( sub2 + "    "   + onesubmarks + "    " + om2 +res2 + "%" + "<br>"); 
+//   document.write( sub3 + "    " + onesubmarks + "    " + om3 +res3 + "%" + "<br>"); 
+  
+//   document.write("<h2>" +  +  tob +  + " " + tres + " " )
